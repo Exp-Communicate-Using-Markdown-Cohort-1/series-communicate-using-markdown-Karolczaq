@@ -6,3 +6,6 @@ int main(){
   cout<<"hello world" << endl();
 }
 ```
+- [ ] Plant a tree
+- [x] Learn something
+- [ ] Introduce myself to the world
